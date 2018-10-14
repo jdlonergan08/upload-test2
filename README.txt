@@ -166,4 +166,4 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 jdavi@LAPTOP-EK9OD4HA MINGW64 ~/IdeaProjects/TowersOfHanoi/src (master)
 $
 
-at the bottom here is a test to write code on github and pull it to git 
+at the bottom here is a test to write code on github and pull it to git - this was a success - just did git pull
